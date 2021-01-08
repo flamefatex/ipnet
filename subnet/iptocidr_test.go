@@ -5,7 +5,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/bmizerany/assert"
+	"github.com/stretchr/testify/assert"
 )
 
 func Test_bitLength(t *testing.T) {
