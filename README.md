@@ -4,7 +4,7 @@
 
 ### merger
 
-
+将连续的网段进行合并，然后输出
 ```golang
 m := subnet.NewSubnetMerger()
 
